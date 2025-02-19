@@ -1,0 +1,6 @@
+@PawListBackend_HostAddress = http://localhost:5004
+
+GET {{PawListBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
