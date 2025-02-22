@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PawListBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2a56225e12b2bf60278d3ac6121f4d1ace2593d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PawListBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PawListBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
